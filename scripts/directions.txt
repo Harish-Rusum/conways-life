@@ -1,0 +1,4 @@
+This directory is for major functions and class defenitions which you dont want to add into the main project.
+If you define the functions and classes here, you can just use them as another layer of abstraction in the main.py
+
+These files can be imported from the main.py file

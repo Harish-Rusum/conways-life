@@ -1,0 +1,4 @@
+This directory is for small scripts you dont want to add into the main project but still want to have.
+
+These files can be imported from the main.py file
+
